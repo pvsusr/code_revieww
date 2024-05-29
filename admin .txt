@@ -19,7 +19,7 @@
         </tr>
         <tr>
             
-            <td><a href="D:\HTML\FACULTYHTML.html\facultyinfoenter.html"><input type="submit" ></a></td>
+            <td><a href="D:\HTML\FACULTYHTML.html\facultyinfoenter.html" onclick="display();"><input type="submit" ></a></td>
         </tr>
     </table>
  </fieldset>
